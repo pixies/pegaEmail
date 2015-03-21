@@ -1,0 +1,12 @@
+A aplica;'ao esta sendo prototipada, para executar sera necessario
+as seguintes dependencias:
+
+- python2.7
+- re
+- selenium
+
+instale usando virtualenv
+
+a URL esta inserida na aplicacao e vai contar de 190 ate 999
+
+depois coloco uma TODO.
